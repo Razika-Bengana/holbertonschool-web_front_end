@@ -3,7 +3,7 @@ set and custom color properties in the root element,
 revisite some other elements
 */
 
-root {
+:root {
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
